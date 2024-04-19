@@ -8,7 +8,7 @@
   
 - 📫 You can reach me ...
   
-- 😄 Pronouns: Them/He
+- 🌈 Pronouns: Him/Them
 
 - ⚡ Fun fact: Before i get into the IT world, i was a phytotherapist and pastry baker...well i'm still, but now only for pleasure 
 
