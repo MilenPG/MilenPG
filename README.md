@@ -10,7 +10,7 @@
   
 - 🌈 Pronouns: Him/Them
 
-- ⚡ Fun fact: Before i get into the IT world, i was a phytotherapist and pastry baker...well i'm still, but now only for pleasure 
+- ⚡ Fun fact: One of my dog buddie's is called Dewey because of his resemblance to Dewey from the series "Malcolm in the middle" (mostly his ears and inner brilliance, have to say it)
 
 <!---
 MilenPG/MilenPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
