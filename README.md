@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MilenPG
   
-- 👀 I’m interested into learning every day, cats, dogs, animals in general, plants, music.
+- 👀 I’m interested into learning every day a little more. Love cats, dogs, animals in general, plants, music.
   
-- 🌱 I’m currently learning about testing technologies, focus on Node and Jest,
-      in context of my peer-project in which we are developing an app where, with IA's help, you can chat with the Hunter x Hunter anime's characters
+- 🌱 I’m currently learning about how to implement an I.A, in the context of my peer-project in which we are developing an app where you can chat with the Hunter x Hunter anime's characters ✨
 
 - 💞️ I’m looking to collaborate on every kind of team where i could keep developing myself as a Full Stack Developer
   
