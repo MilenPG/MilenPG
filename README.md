@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milen :octocat:
   
-- 👀 I’m interested into learning every day a little more. Love cats, dogs, animals in general, plants, biology, nature, music 🐾⚗️📚🎧
+- 👀 Besides the coding, i love cats, dogs, animals in general, plants, biology, nature, anime and music 🐾⚗️📚🎧
   
 - 🌱 I’m currently improving my profile by learning Java ☕ and OOP. 
 
