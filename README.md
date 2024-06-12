@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 [![Milen's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenpg&theme=aura)](https://github.com/milenpg/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milenpg&theme=aura&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&layout=compact)](https://github.com/milenpg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&layout=compact&theme=aura)](https://github.com/milenpg/github-readme-stats)
 
 <!--[![My IDEs](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)-->
 <!---
