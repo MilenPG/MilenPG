@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 [![Milen's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenpg&theme=aura&hide_border=true)](https://github.com/milenpg/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milenpg&theme=aura&hide_border=true)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=milenpg&theme=aura&hide_border=true&combine_all_yearly_contributions=true&hide=B,B%2B&hide_contributor_rank=false&order_by=contributions)
+![](https://github-contributor-stats.vercel.app/api?username=milenpg&theme=aura&hide_border=true&combine_all_yearly_contributions=true)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&layout=compact&theme=aura)](https://github.com/milenpg/github-readme-stats) -->
 
 <!--[![My IDEs](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)-->
