@@ -1,10 +1,10 @@
 # 👋 Hi there, I’m Milen
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6628FF&random=false&width=435&lines=Full+Stack+Web+Developer;in+continuous+learning+to+improve...)](https://git.io/typing-svg)
 
-💫 I’m looking to collaborate on every kind of team where i could enhance and collaborate with my knowledge of JavaScript, HTML, CSS, Java, Testing, Responsive Design and my own curiosity, insight and creativity 🚀💥 <br>
-🌱 I’m currently improving my profile by learning Java ☕ and OOP. <br>
-👀 Besides the coding, i love cats, dogs, animals in general, plants, biology, nature, anime and music 🐾⚗️📚🎧<br>
-⚡ Fun fact: One of my dog buddie's is called Dewey because of his resemblance to Dewey from the series "Malcolm in the middle" (mostly his ears and inner brilliance, have to say it) 🐶💙 <br>
+* 💫 I’m looking to collaborate on every kind of team where i could enhance and collaborate with my knowledge of JavaScript, HTML, CSS, Java, Testing, Responsive Design and my own curiosity, insight and creativity 🚀💥 <br>
+* 🌱 I’m currently improving my profile by learning Java ☕ and OOP. <br>
+* 👀 Besides the coding, i love cats, dogs, animals in general, plants, biology, nature, anime and music 🐾⚗️📚🎧<br>
+* ⚡ Fun fact: One of my dog buddie's is called Dewey because of his resemblance to Dewey from the series "Malcolm in the middle" (mostly his ears and inner brilliance, have to say it) 🐶💙 <br>
 
 ### 🌐 You can reach me in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenpg/)
