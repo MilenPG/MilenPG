@@ -19,9 +19,10 @@
 ![IJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Milen's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenpg&theme=aura)](https://github.com/milenpg/github-readme-stats)<br/>
+[![Milen's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenpg&theme=aura&hide_border=true)](https://github.com/milenpg/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milenpg&theme=aura&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&layout=compact&theme=aura)](https://github.com/milenpg/github-readme-stats)
+![](https://github-contributor-stats.vercel.app/api?username=milenpg&limit=5&theme=aura&combine_all_yearly_contributions=true)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&layout=compact&theme=aura)](https://github.com/milenpg/github-readme-stats) -->
 
 <!--[![My IDEs](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)-->
 <!---
