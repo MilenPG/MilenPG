@@ -17,6 +17,12 @@
 
 ### IDE
 ![IJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=milenpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=milenpg&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=milenpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <!--[![My IDEs](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)-->
 <!---
 MilenPG/MilenPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
