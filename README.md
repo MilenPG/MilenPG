@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi there, I’m Milen </h1>
-<p align="center"> 
+<p justify-content="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=F75E94&background=FF31B700&lines=Full+Stack+Web+Developer;Systems+engineer+student](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6628FF&random=false&width=435&lines=Full+Stack+Web+Developer;in+continuous+learning+to+improve..."></a>
 </p>
 
