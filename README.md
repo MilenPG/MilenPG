@@ -1,5 +1,5 @@
-# 👋 Hi there, I’m Milen
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6628FF&random=false&width=435&lines=Full+Stack+Web+Developer;in+continuous+learning+to+improve...)](https://git.io/typing-svg)
+<h1 align="center"> 👋 Hi there, I’m Milen </h1>
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6628FF&random=false&width=435&lines=Full+Stack+Web+Developer;in+continuous+learning+to+improve...)](https://git.io/typing-svg) </h2>
 
 * 💫 I’m looking to work on every kind of team where i could enhance and collaborate with my knowledge of JavaScript, HTML, CSS, Java, Testing, Responsive Design and my own curiosity, insight and creativity 🚀💥 <br>
 * 🌱 I’m currently improving my profile by learning Java ☕ and OOP. <br>
