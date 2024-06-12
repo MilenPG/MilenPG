@@ -1,4 +1,4 @@
-#👋 Hi there, I’m Milen :octocat:
+# 👋 Hi there, I’m Milen :octocat:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6628FF&random=false&width=435&lines=Full+Stack+Web+Developer;in+continuous+learning+to+improve...)](https://git.io/typing-svg)
 
 💫 I’m looking to collaborate on every kind of team where i could enhance and collaborate with my knowledge of JavaScript, HTML, CSS, Java, Testing, Responsive Design and my own curiosity, insight and creativity 🚀💥
@@ -7,8 +7,8 @@
 👀 Besides the coding, i love cats, dogs, animals in general, plants, biology, nature, anime and music 🐾⚗️📚🎧
 ⚡ Fun fact: One of my dog buddie's is called Dewey because of his resemblance to Dewey from the series "Malcolm in the middle" (mostly his ears and inner brilliance, have to say it) 🐶💙
 
-###🌐📫 You can reach me in:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenpg/)
+### 🌐📫 You can reach me in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenpg/)
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
