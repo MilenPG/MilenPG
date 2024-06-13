@@ -3,12 +3,11 @@
 
 * 💫 I’m looking to work on every kind of team where i could enhance and collaborate with my knowledge of JavaScript, HTML, CSS, Java, Testing, Responsive Design and my own curiosity, insight and creativity 🚀💥 <br>
 * 🌱 I’m currently improving my profile by learning Java ☕ and OOP. <br>
-* 👀 Besides the coding, i love cats, dogs, animals in general, plants, biology, nature, anime and music 🐾⚗️📚🎧<br>
-* ⚡ Fun fact: One of my dog buddie's is called Dewey because of his resemblance to Dewey from the series "Malcolm in the middle" (mostly his ears and inner brilliance, have to say it) 🐶💙 <br>
+<br>
 
-### 🌐 You can reach me in
+### 🌐📫 You can reach me in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenpg/)
-
+<br>
 ## 👩🏻‍💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
